@@ -1,0 +1,611 @@
+,userId,mood,recommendations,feedbacks,number of recs
+1,1,Anger,"['Legend of Zorro, The (2005)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+2,2,Anger,"[""Operation 'Y' & Other Shurik's Adventures (1965)"", 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+3,3,Anger,"['Protector, The (a.k.a. Warrior King) (Tom yum goong) (2005)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+4,4,Joy,"['Secret of Roan Inish, The (1994)']",['Perfect'],1
+5,5,Sadness,"['Identity (2003)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+6,6,Fear,"['Transformers: Age of Extinction (2014)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+7,7,Sadness,"['...And Justice for All (1979)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+8,8,Anger,['The Adventures of Sherlock Holmes and Dr. Watson: The Hound of the Baskervilles (1981)'],['Perfect'],1
+9,9,Sadness,"['Fire in the Sky (1993)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+10,10,Disgust,"['Sin City: A Dame to Kill For (2014)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+11,11,Joy,"[""Gregory's Girl (1981)"", 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+12,12,Fear,"['Midnight Meat Train, The (2008)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+13,13,Joy,"['Blind Date (1987)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+14,14,Anger,"['Teenage Mutant Ninja Turtles: Out of the Shadows (2016)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+15,15,Disgust,"['Darkman II: Return of Durant, The (1995)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+16,16,Joy,"['All Dogs Go to Heaven 2 (1996)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+17,17,Fear,"['The Mummy (2017)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+18,18,Disgust,['Untitled Spider-Man Reboot (2017)'],['Perfect'],1
+19,19,Joy,"[""Money Money Money (L'aventure, c'est l'aventure) (1972)"", 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+20,20,Sadness,['Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003)'],['Perfect'],1
+21,21,Anger,"['Changeling (2008)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+22,22,Joy,['Agora (2009)'],['Perfect'],1
+23,23,Anger,"['Snake Eyes (1998)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+24,24,Disgust,['Untitled Spider-Man Reboot (2017)'],['Perfect'],1
+25,25,Fear,['The Girl with All the Gifts (2016)'],['Perfect'],1
+26,26,Disgust,"['The Hunger Games (2012)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+27,27,Fear,['Avengers: Infinity War - Part I (2018)'],['Perfect'],1
+28,28,Fear,"['Revenant, The (2009)']",['Perfect'],1
+29,29,Fear,['Doctor Who: The Runaway Bride (2007)'],['Perfect'],1
+30,30,Fear,['Seven Sisters (2017)'],['Perfect'],1
+31,31,Disgust,"['Get Shorty (1995)', 'Dances with Wolves (1990)', 'Usual Suspects, The (1995)']","['Like', 'Like', 'Perfect']",3
+32,32,Disgust,"['Underworld: Evolution (2006)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+33,33,Anger,['John Wick: Chapter Two (2017)'],['Perfect'],1
+34,34,Fear,"['Virus (1999)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+35,35,Anger,['Loving Vincent (2017)'],['Perfect'],1
+36,36,Joy,"['Perez Family, The (1995)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+37,37,Anger,"['Live Free or Die Hard (2007)', 'Sneakers (1992)', 'Star Wars: Episode IV - A New Hope (1977)']","['Like', 'Like', 'Perfect']",3
+38,38,Disgust,['House of Games (1987)'],['Perfect'],1
+39,39,Disgust,"['Hunting Party, The (2007)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+40,40,Joy,['Fantasia (1940)'],['Perfect'],1
+41,41,Joy,"['Proposal, The (2009)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+42,42,Anger,"['Covenant, The (2006)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+43,43,Disgust,"['Transformers: Dark of the Moon (2011)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+44,44,Fear,['Zombieland (2009)'],['Perfect'],1
+45,45,Fear,"['Insurgent (2015)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+46,46,Fear,"['Superman Returns (2006)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+47,47,Sadness,"['Batman: Assault on Arkham (2014)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+48,48,Disgust,"['Wasabi (2001)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+49,49,Disgust,"['Striptease (1996)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+50,50,Disgust,"['Crazies, The (2010)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+51,51,Anger,"['Jack Reacher: Never Go Back (2016)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+52,52,Fear,"[""Inside (À l'intérieur) (2007)""]",['Perfect'],1
+53,53,Sadness,"['Mighty Joe Young (1998)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+54,54,Anger,"['Dragon Ball Z: Super Android 13! (Doragon bôru Z 7: Kyokugen batoru!! San dai sûpâ saiyajin) (1992)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+55,55,Sadness,"['Final Analysis (1992)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+56,56,Sadness,"[""Bird with the Crystal Plumage, The (Uccello dalle piume di cristallo, L') (1970)""]",['Perfect'],1
+57,57,Disgust,['Kiss Kiss Bang Bang (2005)'],['Perfect'],1
+58,58,Sadness,"['All About the Benjamins (2002)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+59,59,Joy,['Camelot (1967)'],['Perfect'],1
+60,60,Disgust,"['New Police Story (Xin jing cha gu shi) (2004)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+61,61,Disgust,"[""Librarian: Return to King Solomon's Mines, The (2006)"", 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+62,62,Sadness,['Crash (2004)'],['Perfect'],1
+63,63,Fear,['Blue Exorcist: The Movie (2012)'],['Perfect'],1
+64,64,Joy,"['Treasure Island (1950)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+65,65,Sadness,"['10 Cent Pistol (2015)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+66,66,Anger,['The Magnificent Ruffians (1979)'],['Perfect'],1
+67,67,Anger,"['Eragon (2006)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+68,68,Fear,['Confessions (Kokuhaku) (2010)'],['Perfect'],1
+69,69,Anger,"['Bone Man, The (Der Knochenmann) (2009)']",['Perfect'],1
+70,70,Sadness,"['Antitrust (2001)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+71,71,Fear,"[""Jennifer's Body (2009)"", 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+72,72,Joy,"['Green Butchers, The (Grønne slagtere, De) (2003)']",['Perfect'],1
+73,73,Disgust,"['Great Mouse Detective, The (1986)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+74,74,Joy,"['Five-Year Engagement, The (2012)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+75,75,Sadness,"['Kindergarten Cop (1990)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+76,76,Disgust,"['Deadfall (2012)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+77,77,Sadness,"['Ruins, The (2008)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+78,78,Sadness,"['Stay (2005)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+79,79,Joy,"['Crush (2001)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+80,80,Sadness,['Lady Vengeance (Sympathy for Lady Vengeance) (Chinjeolhan geumjassi) (2005)'],['Perfect'],1
+81,81,Joy,"['Twilight Saga: New Moon, The (2009)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+82,82,Fear,['Parasyte: Part 2 (2015)'],['Perfect'],1
+83,83,Anger,"['Haunted World of El Superbeasto, The (2009)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+84,84,Disgust,"['Get Smart (2008)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+85,85,Sadness,"['Watcher in the Woods, The (1980)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+86,86,Sadness,"['Gardens of Stone (1987)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+87,87,Disgust,"['Lethal Weapon 4 (1998)', 'Sneakers (1992)', 'Star Wars: Episode IV - A New Hope (1977)']","['Dislike', 'Like', 'Perfect']",3
+88,88,Disgust,"['Drive Hard (2014)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+89,89,Fear,['Drag Me to Hell (2009)'],['Perfect'],1
+90,90,Disgust,['Fantastic Mr. Fox (2009)'],['Perfect'],1
+91,91,Joy,"['Iron Giant, The (1999)']",['Perfect'],1
+92,92,Fear,"['Re-Animator (1985)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+93,93,Disgust,"['Phantom, The (1996)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+94,94,Disgust,"['Day Watch (Dnevnoy dozor) (2006)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+95,95,Anger,"['The Accountant (2016)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+96,96,Sadness,"['Mariachi, El (1992)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+97,97,Joy,"['Diamond Arm, The (Brilliantovaya ruka) (1968)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+98,98,Fear,['Hood of Horror (2006)'],['Perfect'],1
+99,99,Anger,"['Cop Out (2010)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+100,100,Fear,"['Star Wars: The Last Jedi (2017)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+101,101,Anger,"['Righteous Kill (2008)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+102,102,Disgust,"['Justice League: The New Frontier (2008) ', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+103,103,Fear,"['Insidious: The Last Key (2018)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+104,104,Fear,['Deathgasm (2015)'],['Perfect'],1
+105,105,Joy,"['Anthony Adverse (1936)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+106,106,Sadness,"['Ice Harvest, The (2005)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+107,107,Disgust,"['Forbidden Kingdom, The (2008)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+108,108,Anger,"['Machine Girl, The (Kataude mashin gâru) (2008)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+109,109,Joy,"['Secret Life of Walter Mitty, The (2013)']",['Perfect'],1
+110,110,Anger,"['Patriot Games (1992)', 'Hunt for Red October, The (1990)']","['Like', 'Perfect']",2
+111,111,Sadness,['Drive (2011)'],['Perfect'],1
+112,112,Anger,"['Foxy Brown (1974)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+113,113,Sadness,"['Eulogy (2004)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+114,114,Sadness,['Forrest Gump (1994)'],['Perfect'],1
+115,115,Sadness,"['WarGames (1983)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+116,116,Anger,"['Escort, The (Scorta, La) (1993)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+117,117,Joy,"['Topkapi (1964)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+118,118,Anger,"['Dunkirk (2017)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+119,119,Sadness,"['Vice (2015)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+120,120,Anger,"['Program, The (1993)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+121,121,Sadness,['No Country for Old Men (2007)'],['Perfect'],1
+122,122,Sadness,"[""Fool's Gold (2008)"", 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+123,123,Joy,"['Decline of Western Civilization, The (1981)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+124,124,Disgust,"['Wasabi (2001)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+125,125,Anger,"['Taxi 4 (2007)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+126,126,Sadness,"['Brave One, The (2007)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+127,127,Joy,"['Batman & Robin (1997)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+128,128,Fear,"['Ghost in the Shell: Stand Alone Complex - The Laughing Man (2005)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+129,129,Sadness,"['Death Wish 4: The Crackdown (1987)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+130,130,Disgust,"['Bandidas (2006)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+131,131,Sadness,"['Zathura (2005)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+132,132,Disgust,"['Kingsglaive: Final Fantasy XV (2016)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+133,133,Disgust,['Max Manus (2008)'],['Perfect'],1
+134,134,Anger,"['Bernie (2011)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+135,135,Joy,"['Two Weeks Notice (2002)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+136,136,Disgust,"['Trou, Le (Hole, The) (Night Watch, The) (1960)']",['Perfect'],1
+137,137,Disgust,"['Olympus Has Fallen (2013)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+138,138,Anger,"['Poker Night (2014)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+139,139,Anger,['Dragon Ball Z: Bojack Unbound (Doragon bôru Z 9: Ginga girigiri!! Butchigiri no sugoi yatsu) (1993)'],['Perfect'],1
+140,140,Sadness,['Mulholland Drive (2001)'],['Perfect'],1
+141,141,Anger,"['Kill! (Kiru) (1968)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+142,142,Disgust,"['16 Blocks (2006)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+143,143,Joy,"['Heavy Metal 2000 (2000)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+144,144,Disgust,['Drive Angry (2011)'],['Perfect'],1
+145,145,Anger,['High Sierra (1941)'],['Perfect'],1
+146,146,Anger,"['Blood In, Blood Out (1993)']",['Perfect'],1
+147,147,Sadness,['From Here to Eternity (1953)'],['Perfect'],1
+148,148,Disgust,"[""'71 (2014)""]",['Perfect'],1
+149,149,Sadness,"['The Professional: Golgo 13 (1983)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+150,150,Sadness,"['Snow White and the Huntsman (2012)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+151,151,Joy,"['Simpsons: The Longest Daycare, The (2012)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+152,152,Sadness,['Mulholland Drive (2001)'],['Perfect'],1
+153,153,Fear,['Frankenstein 90 (1984)'],['Perfect'],1
+154,154,Disgust,"['Killers, The (1946)']",['Perfect'],1
+155,155,Fear,"['Primeval (2007)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+156,156,Fear,"['Pact, The (2012)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+157,157,Anger,"['Striptease (1996)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+158,158,Joy,"['Music Man, The (1962)']",['Perfect'],1
+159,159,Sadness,"['Good Day to Die Hard, A (2013)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+160,160,Sadness,"['Mission: Impossible - Fallout (2018)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+161,161,Joy,"['Don Juan DeMarco (1995)', 'American Beauty (1999)']","['Like', 'Perfect']",2
+162,162,Fear,['The Electric Hotel (1908)'],['Perfect'],1
+163,163,Anger,['Baby Driver (2017)'],['Perfect'],1
+164,164,Fear,['Alien (1979)'],['Perfect'],1
+165,165,Anger,"['Homefront (2013)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+166,166,Sadness,['Son of Rambow (2007)'],['Perfect'],1
+167,167,Anger,"['Fast and the Furious: Tokyo Drift, The (Fast and the Furious 3, The) (2006)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+168,168,Disgust,"['Asphalt Jungle, The (1950)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+169,169,Joy,['My Neighbor Totoro (Tonari no Totoro) (1988)'],['Perfect'],1
+170,170,Anger,"['To Live and Die in L.A. (1985)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+171,171,Fear,"['Saw III (2006)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+172,172,Joy,['In July (Im Juli) (2000)'],['Perfect'],1
+173,173,Joy,"[""It's a Wonderful Life (1946)""]",['Perfect'],1
+174,174,Anger,"['San Andreas (2015)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+175,175,Anger,"['Silverado (1985)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+176,176,Sadness,"['Fire in the Sky (1993)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+177,177,Joy,"['Arthur (1981)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+178,178,Joy,['Dragon ball Z 04: Lord Slug (1991)'],['Perfect'],1
+179,179,Anger,"['F/X2 (a.k.a. F/X 2 - The Deadly Art of Illusion) (1991)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+180,180,Joy,['Top Hat (1935)'],['Perfect'],1
+181,181,Anger,"['Electra Glide in Blue (1973)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+182,182,Joy,['It Happened on Fifth Avenue (1947)'],['Perfect'],1
+183,183,Anger,"['World on a Wire (Welt am Draht) (1973)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+184,184,Anger,['Hellboy II: The Golden Army (2008)'],['Perfect'],1
+185,185,Joy,"['Jump Tomorrow (2001)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+186,186,Fear,"['Resident Evil: Afterlife (2010)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+187,187,Anger,"['2012 (2009)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+188,188,Anger,['Underworld: Rise of the Lycans (2009)'],['Perfect'],1
+189,189,Disgust,"['Bad Lieutenant: Port of Call New Orleans (2009)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+190,190,Fear,['Battlestar Galactica: Razor (2007)'],['Perfect'],1
+191,191,Anger,"['Beverly Hills Cop III (1994)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+192,192,Anger,"['Bullet to the Head (2012)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+193,193,Fear,"['Vampire Hunter D (1985)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+194,194,Joy,"['Milk Money (1994)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+195,195,Anger,['Sherlock Holmes and Dr. Watson: Acquaintance (1979)'],['Perfect'],1
+196,196,Disgust,"['Transsiberian (2008)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+197,197,Disgust,"['xXx: State of the Union (2005)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+198,198,Joy,"['Holiday, The (2006)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+199,199,Fear,"['Race to Witch Mountain (2009)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+200,200,Anger,"['No Escape (1994)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+201,201,Disgust,['Justice League: Doom (2012) '],['Perfect'],1
+202,202,Fear,"['War of the Worlds (2005)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+203,203,Disgust,"['Anti-Social (2015)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+204,204,Sadness,['Sherlock Holmes: A Game of Shadows (2011)'],['Perfect'],1
+205,205,Sadness,['Malèna (2000)'],['Perfect'],1
+206,206,Sadness,"['Narcopolis (2014)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+207,207,Joy,['Labyrinth (1986)'],['Perfect'],1
+208,208,Disgust,"['Fantastic Four: Rise of the Silver Surfer (2007)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+209,209,Disgust,"['Sky High (2005)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+210,210,Fear,['Triangle (2009)'],['Perfect'],1
+211,211,Disgust,"['Clear and Present Danger (1994)', 'Jurassic Park (1993)', 'Dances with Wolves (1990)', 'Braveheart (1995)']","['Like', 'Like', 'Like', 'Perfect']",4
+212,212,Anger,"['Batman: Mystery of the Batwoman (2003)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+213,213,Sadness,"['Witch Hunt (1999)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+214,214,Sadness,"['Black Swan (2010)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+215,215,Disgust,"['Tango & Cash (1989)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+216,216,Fear,"['Power Rangers (2017)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+217,217,Sadness,"['Bulletproof (1996)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+218,218,Fear,['Pride and Prejudice and Zombies (2016)'],['Perfect'],1
+219,219,Disgust,"['Rise of the Planet of the Apes (2011)', 'Sneakers (1992)', 'Star Wars: Episode IV - A New Hope (1977)']","['Like', 'Like', 'Perfect']",3
+220,220,Joy,"['Band Wagon, The (1953)']",['Perfect'],1
+221,221,Anger,['12 Angry Men (1997)'],['Perfect'],1
+222,222,Disgust,"['22 Jump Street (2014)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+223,223,Disgust,['Laura (1944)'],['Perfect'],1
+224,224,Joy,"['Dead Like Me: Life After Death (2009)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+225,225,Sadness,"['Protector, The (a.k.a. Warrior King) (Tom yum goong) (2005)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+226,226,Joy,"['I.Q. (1994)', 'American Beauty (1999)']","['Like', 'Perfect']",2
+227,227,Disgust,['Undisputed II: Last Man Standing (2006)'],['Perfect'],1
+228,228,Sadness,"['Cube (1997)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+229,229,Joy,"['Water Horse: Legend of the Deep, The (2007)']",['Perfect'],1
+230,230,Joy,"['Milk Money (1994)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+231,231,Disgust,"['Point Break (1991)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+232,232,Sadness,"['Cell, The (2000)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+233,233,Joy,"['In the Name of the King III (2014)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+234,234,Anger,['Branded to Kill (Koroshi no rakuin) (1967)'],['Perfect'],1
+235,235,Joy,"['Chinese Ghost Story, A (Sinnui yauwan) (1987)']",['Perfect'],1
+236,236,Sadness,"['Omen, The (1976)']",['Perfect'],1
+237,237,Sadness,"['Changeling, The (1980)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+238,238,Sadness,['Deliverance (1972)'],['Perfect'],1
+239,239,Joy,"['ParaNorman (2012)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+240,240,Fear,"['Walled In (2009)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+241,241,Anger,"[""It's a Mad, Mad, Mad, Mad World (1963)"", 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+242,242,Sadness,"[""Big Momma's House 2 (2006)"", 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+243,243,Fear,"['Race to Witch Mountain (2009)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+244,244,Disgust,"['Micmacs (Micmacs à tire-larigot) (2009)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+245,245,Disgust,['Dragon Ball Z: Dead Zone (Doragon bôru Z 1: Ora no Gohan wo kaese) (1989)'],['Perfect'],1
+246,246,Sadness,"['Menace II Society (1993)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+247,247,Fear,['Star Trek (2009)'],['Perfect'],1
+248,248,Disgust,"['Harder They Come, The (1973)']",['Perfect'],1
+249,249,Disgust,"[""Dante's Inferno: An Animated Epic (2010)"", 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+250,250,Sadness,['Chicago (2002)'],['Perfect'],1
+251,251,Disgust,"['Knock Knock (2015)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+252,252,Joy,['Tears for Sale (2008)'],['Perfect'],1
+253,253,Joy,"['Stand, The (1994)']",['Perfect'],1
+254,254,Anger,"['Infernal Affairs 2 (Mou gaan dou II) (2003)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+255,255,Sadness,['Chinatown (1974)'],['Perfect'],1
+256,256,Anger,"['Tornado! (1996)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+257,257,Sadness,"['Descent (2007)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+258,258,Joy,"['Our Lips Are Sealed (2000)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+259,259,Fear,"['Fright Night (2011)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+260,260,Anger,['Love Exposure (Ai No Mukidashi) (2008)'],['Perfect'],1
+261,261,Disgust,"['Poker Night (2014)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+262,262,Fear,"['Resident Evil: Retribution (2012)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+263,263,Joy,"['Mr. Right (2016)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+264,264,Joy,"['Music and Lyrics (2007)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+265,265,Fear,['Solyaris (1968)'],['Perfect'],1
+266,266,Fear,"[""Devil's Rejects, The (2005)""]",['Perfect'],1
+267,267,Disgust,"['Men Who Stare at Goats, The (2009)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+268,268,Anger,"['Bad Company (2002)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+269,269,Anger,"['Torque (2004)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+270,270,Joy,"['Aladdin and the King of Thieves (1996)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+271,271,Sadness,"['U.S. Marshals (1998)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+272,272,Anger,"['Ip Man (2008)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+273,273,Anger,"['Dances with Wolves (1990)', 'Silence of the Lambs, The (1991)']","['Like', 'Perfect']",2
+274,274,Anger,['Deadly Outlaw: Rekka (a.k.a. Violent Fire) (Jitsuroku Andô Noboru kyôdô-den: Rekka) (2002)'],['Perfect'],1
+275,275,Disgust,"['Monument Ave. (1998)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+276,276,Sadness,"['Bad Company (2002)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+277,277,Fear,"['Puppet Master (1989)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+278,278,Sadness,"['Spy Who Came in from the Cold, The (1965)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+279,279,Anger,"['Brake (2012)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+280,280,Fear,"['Oblivion (2013)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+281,281,Sadness,"['Deadfall (2012)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+282,282,Disgust,"['Red Hill (2010)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+283,283,Anger,"['Chain Reaction (1996)', 'Star Wars: Episode IV - A New Hope (1977)']","['Like', 'Perfect']",2
+284,284,Disgust,"['Point Blank (1967)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+285,285,Joy,"['Blame It on Rio (1984)', 'American Beauty (1999)']","['Dislike', 'Perfect']",2
+286,286,Fear,"['The Beast of Hollow Mountain (1956)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+287,287,Sadness,"['Body of Evidence (1993)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+288,288,Fear,"['Midnight Meat Train, The (2008)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+289,289,Fear,"['Tomorrowland (2015)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+290,290,Fear,['All-Star Superman (2011)'],['Perfect'],1
+291,291,Joy,['Wilbur Wants to Kill Himself (2002)'],['Perfect'],1
+292,292,Anger,"['Rising Sun (1993)', 'Sneakers (1992)', 'Hunt for Red October, The (1990)']","['Like', 'Like', 'Perfect']",3
+293,293,Fear,"['Uninvited, The (2009)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+294,294,Sadness,"['Close Range (2015)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+295,295,Anger,"['Maiden Heist, The (2009)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+296,296,Joy,['Lost in Translation (2003)'],['Perfect'],1
+297,297,Fear,['Redline (2009)'],['Perfect'],1
+298,298,Disgust,"[""Project A ('A' gai waak) (1983)""]",['Perfect'],1
+299,299,Joy,"['Jackass: The Movie (2002)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+300,300,Sadness,"['For Your Eyes Only (1981)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+301,301,Joy,"['Cinderella Story, A (2004)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+302,302,Sadness,['Time of the Gypsies (Dom za vesanje) (1989)'],['Perfect'],1
+303,303,Joy,"['The Jungle Book (2016)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+304,304,Joy,"['10th Kingdom, The (2000)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+305,305,Joy,"[""It's a Very Merry Muppet Christmas Movie (2002)"", 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+306,306,Disgust,"['Iceman, The (2012)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+307,307,Disgust,['L.A. Confidential (1997)'],['Perfect'],1
+308,308,Joy,"['Vacation (2015)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+309,309,Anger,['Raiders of the Lost Ark: The Adaptation (1989)'],['Perfect'],1
+310,310,Sadness,"['Conversation, The (1974)']",['Perfect'],1
+311,311,Anger,"['Patlabor 2: The Movie (1993)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+312,312,Anger,"['Snow White and the Huntsman (2012)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+313,313,Joy,"['Pride and Prejudice (1940)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+314,314,Disgust,['Body of Lies (2008)'],['Perfect'],1
+315,315,Joy,"['Pokemon 4 Ever (a.k.a. Pokémon 4: The Movie) (2002)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+316,316,Anger,"['G.I. Joe: Retaliation (2013)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+317,317,Disgust,"['Deadpool 2 (2018)', 'Sneakers (1992)', 'Star Wars: Episode IV - A New Hope (1977)']","['Like', 'Like', 'Perfect']",3
+318,318,Joy,"[""Futurama: Bender's Big Score (2007)""]",['Perfect'],1
+319,319,Disgust,"['Anything for Her (Pour elle) (2008)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+320,320,Sadness,"['AVPR: Aliens vs. Predator - Requiem (2007)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+321,321,Joy,"[""Please Don't Eat the Daisies (1960)"", 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+322,322,Fear,"['War of the Worlds (2005)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+323,323,Fear,"['Southbound (2016)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+324,324,Disgust,"['Carpool (1996)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+325,325,Fear,"['Teeth (2007)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+326,326,Joy,['Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)'],['Perfect'],1
+327,327,Sadness,"['Virgin Spring, The (Jungfrukällan) (1960)']",['Perfect'],1
+328,328,Fear,"['Suicide Squad (2016)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+329,329,Fear,"['Innkeepers, The (2011)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+330,330,Fear,['The Amazing Screw-On Head (2006)'],['Perfect'],1
+331,331,Joy,"['Percy Jackson: Sea of Monsters (2013)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+332,332,Disgust,"['Terminator 2: Judgment Day (1991)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+333,333,Joy,"['Clash of the Titans (2010)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+334,334,Anger,"['Good Time (2017)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+335,335,Joy,"['Muppet Christmas: Letters to Santa, A (2008)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+336,336,Joy,['Cinderella (2015)'],['Perfect'],1
+337,337,Disgust,['Bonnie and Clyde (1967)'],['Perfect'],1
+338,338,Sadness,"['DOA: Dead or Alive (2006)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+339,339,Joy,"['Big Fat Liar (2002)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+340,340,Anger,"['Silence of the Lambs, The (1991)']",['Perfect'],1
+341,341,Joy,"['Madagascar: Escape 2 Africa (2008)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+342,342,Anger,"['Dunkirk (2017)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+343,343,Anger,"['X-Files: Fight the Future, The (1998)', 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)']","['Like', 'Perfect']",2
+344,344,Sadness,"['King Arthur (2004)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+345,345,Fear,"['Mortuary (1983)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+346,346,Anger,"['Thor: Ragnarok (2017)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+347,347,Joy,['Shall We Dance? (Shall We Dansu?) (1996)'],['Perfect'],1
+348,348,Anger,"['Pineapple Express (2008)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+349,349,Disgust,['Into the Wild (2007)'],['Perfect'],1
+350,350,Fear,"['Transformers (2007)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+351,351,Fear,"['Videodrome (1983)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+352,352,Anger,"['Johnny Eager (1942)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+353,353,Anger,"['Swelter (2014)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+354,354,Sadness,"['Mulholland Falls (1996)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+355,355,Anger,"['Dunkirk (2017)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+356,356,Anger,"['Crossfire (1947)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+357,357,Sadness,"['Death Race 2 (2010)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+358,358,Fear,"['Ice Cream Man (1995)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+359,359,Sadness,"['New Rose Hotel (1998)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+360,360,Disgust,"['Dead Man Walking (1995)', 'Fargo (1996)']","['Like', 'Perfect']",2
+361,361,Fear,"['Giver, The (2014)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+362,362,Disgust,"['Futurama: The Beast with a Billion Backs (2008)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+363,363,Joy,"['Bruce Almighty (2003)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+364,364,Disgust,['Tokyo Tribe (2014)'],['Perfect'],1
+365,365,Joy,['Alesha Popovich and Tugarin the Dragon (2004)'],['Perfect'],1
+366,366,Joy,['Wonder Woman (2009)'],['Perfect'],1
+367,367,Joy,"['Princess Bride, The (1987)']",['Perfect'],1
+368,368,Fear,['Ruby Red (2013)'],['Perfect'],1
+369,369,Anger,"['Above the Rim (1994)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+370,370,Joy,"['You Will Meet a Tall Dark Stranger (2010)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+371,371,Sadness,"['Free Fire (2017)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+372,372,Anger,"['The True Memoirs of an International Assassin (2016)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+373,373,Fear,"['Home (2015)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+374,374,Anger,"['Red Hill (2010)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+375,375,Disgust,"['16 Blocks (2006)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+376,376,Anger,"['Gone in 60 Seconds (1974)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+377,377,Sadness,"['Murder by Death (1976)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+378,378,Joy,['Elizabethtown (2005)'],['Perfect'],1
+379,379,Sadness,['Goodfellas (1990)'],['Perfect'],1
+380,380,Sadness,"['Thumbsucker (2005)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+381,381,Joy,"['Angel-A (2005)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+382,382,Anger,"['Wyatt Earp (1994)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+383,383,Disgust,"['Fast & Furious (Fast and the Furious 4, The) (2009)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+384,384,Fear,"['Machine Girl, The (Kataude mashin gâru) (2008)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+385,385,Anger,"['Grindhouse (2007)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+386,386,Sadness,"['Captain America II: Death Too Soon (1979)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+387,387,Disgust,"['2 Fast 2 Furious (Fast and the Furious 2, The) (2003)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+388,388,Sadness,"['Point Break (1991)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+389,389,Disgust,"['X-Files: Fight the Future, The (1998)', 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)']","['Like', 'Perfect']",2
+390,390,Sadness,"['Futurama: The Beast with a Billion Backs (2008)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+391,391,Anger,"['Staten Island (2009)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+392,392,Disgust,"['Pusher II: With Blood on My Hands (2004)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+393,393,Sadness,['Sanjuro (Tsubaki Sanjûrô) (1962)'],['Perfect'],1
+394,394,Anger,"['Hurt Locker, The (2008)']",['Perfect'],1
+395,395,Sadness,"[""Avventura, L' (Adventure, The) (1960)""]",['Perfect'],1
+396,396,Sadness,"['To Have and Have Not (1944)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+397,397,Fear,"['Abominable Snowman, The (Abominable Snowman of the Himalayas, The) (1957)']",['Perfect'],1
+398,398,Sadness,"[""Big Momma's House 2 (2006)"", 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+399,399,Anger,['Kingsman: The Secret Service (2015)'],['Perfect'],1
+400,400,Disgust,['Braveheart (1995)'],['Perfect'],1
+401,401,Anger,['Supercop 2 (Project S) (Chao ji ji hua) (1993)'],['Perfect'],1
+402,402,Fear,"['Real Steel (2011)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+403,403,Disgust,['Mother (Madeo) (2009)'],['Perfect'],1
+404,404,Disgust,['Rise of the Footsoldier (2007)'],['Perfect'],1
+405,405,Disgust,['Love and a .45 (1994)'],['Perfect'],1
+406,406,Fear,['Them! (1954)'],['Perfect'],1
+407,407,Joy,"['American Pie Presents The Naked Mile (American Pie 5: The Naked Mile) (2006)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+408,408,Fear,"['Battle: Los Angeles (2011)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+409,409,Fear,"['Legend of Sleepy Hollow, The (1980)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+410,410,Sadness,"['True Crime (1999)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+411,411,Anger,"['Gone in 60 Seconds (2000)', 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)']","['Like', 'Perfect']",2
+412,412,Fear,"['Piranha (1978)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+413,413,Joy,"[""Look Who's Talking Too (1990)"", 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+414,414,Joy,"['The Star Wars Holiday Special (1978)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+415,415,Fear,"['Sweeney Todd: The Demon Barber of Fleet Street (2007)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+416,416,Fear,"['Species III (2004)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+417,417,Anger,"['Tall Man, The (2012)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+418,418,Anger,"['Diamond Arm, The (Brilliantovaya ruka) (1968)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+419,419,Anger,['Masterminds (2016)'],['Perfect'],1
+420,420,Disgust,"['Ghost in the Shell Arise - Border 2: Ghost Whispers (2013)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+421,421,Disgust,"['Evangelion: 2.0 You Can (Not) Advance (Evangerion shin gekijôban: Ha) (2009)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+422,422,Joy,"['Man Trouble (1992)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+423,423,Sadness,['Black Mirror: White Christmas (2014)'],['Perfect'],1
+424,424,Disgust,"['Renaissance (2006)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+425,425,Sadness,"['Village, The (2004)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+426,426,Fear,"['Cowboys & Aliens (2011)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+427,427,Disgust,"['Incredible Hulk, The (2008)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+428,428,Anger,"['Justice League (2017)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+429,429,Joy,"[""Futurama: Bender's Big Score (2007)""]",['Perfect'],1
+430,430,Anger,"['Pixels (2015)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+431,431,Sadness,['Empire (2002)'],['Perfect'],1
+432,432,Sadness,"['Who Am I? (Wo shi shei) (1998)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+433,433,Anger,"['Die Hard: With a Vengeance (1995)', 'Mission: Impossible (1996)', 'Star Wars: Episode IV - A New Hope (1977)']","['Like', 'Like', 'Perfect']",3
+434,434,Joy,['Desk Set (1957)'],['Perfect'],1
+435,435,Anger,"['Hurt Locker, The (2008)']",['Perfect'],1
+436,436,Sadness,"['Last Kiss, The (2006)']",['Perfect'],1
+437,437,Joy,"['Gintama: The Final Chapter - Be Forever Yorozuya (2013)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+438,438,Sadness,"['Missing (1982)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+439,439,Anger,"['Naked Gun 33 1/3: The Final Insult (1994)', 'Star Wars: Episode IV - A New Hope (1977)']","['Like', 'Perfect']",2
+440,440,Joy,['Pauline at the Beach (Pauline à la Plage) (1983)'],['Perfect'],1
+441,441,Anger,['Scouts Guide to the Zombie Apocalypse (2015)'],['Perfect'],1
+442,442,Anger,"['Immortals (2011)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+443,443,Sadness,"['Requiem (2006)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+444,444,Anger,"['The Lost Room (2006)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+445,445,Anger,"['Batman: Year One (2011)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+446,446,Sadness,"['Counterfeiters, The (Die Fälscher) (2007)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+447,447,Fear,['Game Night (2018)'],['Perfect'],1
+448,448,Anger,"['Silver Streak (1976)', 'Sneakers (1992)', 'Jaws (1975)']","['Like', 'Like', 'Perfect']",3
+449,449,Joy,"['Lizzie McGuire Movie, The (2003)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+450,450,Disgust,"['Marine, The (2006)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+451,451,Fear,"['Life After Beth (2014)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+452,452,Anger,"['Kidnapping Mr. Heineken (2015)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+453,453,Sadness,['Snatch (2000)'],['Perfect'],1
+454,454,Disgust,"['Magnum Force (1973)', 'Godfather: Part II, The (1974)']","['Like', 'Perfect']",2
+455,455,Joy,"['Harold and Kumar Go to White Castle (2004)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+456,456,Disgust,"['Go West (1940)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+457,457,Anger,"['Ultimate Avengers (2006)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+458,458,Disgust,"['Seeker: The Dark Is Rising, The (2007)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+459,459,Disgust,"['Tomorrowland (2015)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+460,460,Fear,"['Saw IV (2007)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+461,461,Anger,"['From Dusk Till Dawn (1996)', 'Jaws (1975)']","['Like', 'Perfect']",2
+462,462,Sadness,"['Two Women (Ciociara, La) (1960)']",['Perfect'],1
+463,463,Joy,['Buena Vista Social Club (1999)'],['Perfect'],1
+464,464,Fear,"['Legend of Sleepy Hollow, The (1949)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+465,465,Joy,"['Aqua Teen Hunger Force Colon Movie Film for Theaters (2007)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+466,466,Anger,"['Hurt Locker, The (2008)']",['Perfect'],1
+467,467,Joy,"['Haunted World of El Superbeasto, The (2009)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+468,468,Sadness,"['Atonement (2007)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+469,469,Anger,"['Catch .44 (2011)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+470,470,Sadness,"['True Lies (1994)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+471,471,Fear,"['Julia (2014)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+472,472,Fear,"['Dark Shadows (2012)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+473,473,Fear,"['Always Watching: A Marble Hornets Story (2015)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+474,474,Anger,"['Brake (2012)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+475,475,Disgust,"['Adventures of Tintin, The (2011)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+476,476,Anger,"['Great Mouse Detective, The (1986)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+477,477,Sadness,"['Teenage Mutant Ninja Turtles: Turtles Forever (2009)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+478,478,Disgust,['Into the Wild (2007)'],['Perfect'],1
+479,479,Sadness,['Fail-Safe (1964)'],['Perfect'],1
+480,480,Joy,"['Tomorrowland (2015)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+481,481,Fear,"['American Haunting, An (2005)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+482,482,Joy,"['Rookie of the Year (1993)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+483,483,Fear,"['Bay, The (2012)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+484,484,Disgust,"['Prime Suspect 3 (1993)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+485,485,Fear,"['Day Watch (Dnevnoy dozor) (2006)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+486,486,Joy,['The Amazing Screw-On Head (2006)'],['Perfect'],1
+487,487,Fear,"['Perfect Getaway, A (2009)']",['Perfect'],1
+488,488,Sadness,"['Replacement Killers, The (1998)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+489,489,Joy,"['Croods, The (2013)']",['Perfect'],1
+490,490,Anger,['Rise of the Footsoldier (2007)'],['Perfect'],1
+491,491,Anger,"['Catwoman (2004)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+492,492,Disgust,"['Shaft (2000)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+493,493,Sadness,"['Hitcher, The (1986)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+494,494,Sadness,"['We Are What We Are (2013)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+495,495,Disgust,"['Sorrow (2015)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+496,496,Sadness,"['Live Free or Die Hard (2007)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+497,497,Sadness,"['Dentist, The (1996)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+498,498,Joy,"['Peter Pan (1960)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+499,499,Fear,"['Carnosaur 3: Primal Species (1996)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+500,500,Fear,"['Friday the 13th (2009)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+501,501,Fear,"['Slither (2006)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+502,502,Sadness,['Masterminds (1997)'],['Perfect'],1
+503,503,Anger,['Taxi Driver (1976)'],['Perfect'],1
+504,504,Anger,"['BlacKkKlansman (2018)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+505,505,Disgust,"['Secret in Their Eyes, The (El secreto de sus ojos) (2009)']",['Perfect'],1
+506,506,Joy,"['Graduate, The (1967)']",['Perfect'],1
+507,507,Sadness,"[""Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994)"", 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+508,508,Fear,"['Total Recall (2012)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+509,509,Anger,['North by Northwest (1959)'],['Perfect'],1
+510,510,Fear,"['Death Smiles on a Murderer (1973)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+511,511,Fear,"['Skeleton Key, The (2005)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+512,512,Sadness,['Heart of a Dog (Sobachye serdtse) (1988)'],['Perfect'],1
+513,513,Anger,"['I Spy (2002)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+514,514,Fear,['Paprika (Papurika) (2006)'],['Perfect'],1
+515,515,Sadness,"['Horde, The (La Horde) (2009)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+516,516,Disgust,"['Death Wish (1974)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+517,517,Disgust,"['One-Armed Swordsman, The (Dubei dao) (1967)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+518,518,Disgust,"['River Wild, The (1994)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+519,519,Sadness,"['Zeitgeist: The Movie (2007)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+520,520,Disgust,"['Gran Torino (2008)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+521,521,Joy,['Time of the Gypsies (Dom za vesanje) (1989)'],['Perfect'],1
+522,522,Joy,['Dead Snow (Død snø) (2009)'],['Perfect'],1
+523,523,Fear,"['Kingsglaive: Final Fantasy XV (2016)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+524,524,Sadness,"['xXx: State of the Union (2005)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+525,525,Joy,['Tangled Ever After (2012)'],['Perfect'],1
+526,526,Fear,['Babylon 5: The Lost Tales - Voices in the Dark (2007)'],['Perfect'],1
+527,527,Anger,"['Stealth (2005)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+528,528,Disgust,"['Horrible Bosses 2 (2014)', 'Sneakers (1992)', 'Star Wars: Episode IV - A New Hope (1977)']","['Like', 'Like', 'Perfect']",3
+529,529,Sadness,"['Tinker, Tailor, Soldier, Spy (1979)']",['Perfect'],1
+530,530,Joy,"['Bogus (1996)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+531,531,Anger,"['Cop Car (2015)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+532,532,Disgust,"['Blood In, Blood Out (1993)']",['Perfect'],1
+533,533,Joy,"['Ernest Rides Again (1993)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+534,534,Sadness,"[""Fool's Gold (2008)"", 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+535,535,Joy,"['Laws of Attraction (2004)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+536,536,Joy,"['Hitch Hikers Guide to the Galaxy, The (1981)']",['Perfect'],1
+537,537,Disgust,"['By the Gun (2014)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+538,538,Disgust,"['Hard Rain (1998)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+539,539,Anger,"[""Before the Devil Knows You're Dead (2007)"", 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+540,540,Joy,"['Much Ado About Nothing (2012)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+541,541,Fear,"['Amer (2009)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+542,542,Disgust,"['Starcrash (a.k.a. Star Crash) (1978)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+543,543,Fear,['28 Days Later (2002)'],['Perfect'],1
+544,544,Joy,"['Racing Stripes (2005)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+545,545,Disgust,"['Peacekeeper, The (1997)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+546,546,Anger,"['Walk Among the Tombstones, A (2014)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+547,547,Sadness,"['Walking Dead, The (1995)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+548,548,Fear,['Hollywood Chainsaw Hookers (1988)'],['Perfect'],1
+549,549,Anger,['Making a Murderer (2015)'],['Perfect'],1
+550,550,Anger,"['Batman: Mystery of the Batwoman (2003)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+551,551,Joy,"['Green Butchers, The (Grønne slagtere, De) (2003)']",['Perfect'],1
+552,552,Sadness,"['True Romance (1993)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+553,553,Anger,['United 93 (2006)'],['Perfect'],1
+554,554,Joy,"['Freaky Friday (2003)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Like', 'Perfect']",2
+555,555,Sadness,"['Planet of the Apes (1968)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+556,556,Anger,"['Godfather, The (1972)']",['Perfect'],1
+557,557,Anger,"['Iron Man 3 (2013)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+558,558,Sadness,"['Dragon: The Bruce Lee Story (1993)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+559,559,Sadness,"['Jumper (2008)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+560,560,Sadness,"['Lara Croft Tomb Raider: The Cradle of Life (2003)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+561,561,Disgust,['Inception (2010)'],['Perfect'],1
+562,562,Fear,"['Thing with Two Heads, The (1972)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+563,563,Fear,"['Oblivion 2: Backlash (1996)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+564,564,Anger,"['Kindergarten Cop (1990)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+565,565,Anger,['Batman Begins (2005)'],['Perfect'],1
+566,566,Joy,"['Yogi Bear (2010)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+567,567,Disgust,['Slumdog Millionaire (2008)'],['Perfect'],1
+568,568,Joy,['About a Boy (2002)'],['Perfect'],1
+569,569,Fear,"['Man from Earth, The (2007)']",['Perfect'],1
+570,570,Joy,"[""Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman, A (2012)"", 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+571,571,Disgust,['Machete Kills (Machete 2) (2013)'],['Perfect'],1
+572,572,Disgust,"['Eight Below (2006)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+573,573,Disgust,"['The Hunger Games (2012)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+574,574,Anger,['State of Play (2009)'],['Perfect'],1
+575,575,Joy,"[""Summer's Tale, A (Conte d'été) (1996)""]",['Perfect'],1
+576,576,Fear,"['Underworld: Evolution (2006)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+577,577,Sadness,['Invasion of the Body Snatchers (1978)'],['Perfect'],1
+578,578,Sadness,['Che: Part Two (2008)'],['Perfect'],1
+579,579,Joy,"['Ernest Rides Again (1993)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+580,580,Anger,"['Man, The (2005)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+581,581,Joy,"['Saving Christmas (2014)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+582,582,Anger,"['Anything for Her (Pour elle) (2008)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+583,583,Fear,"['Shrooms (2007)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+584,584,Joy,"['Adventures of Mary-Kate and Ashley, The: The Case of the Christmas Caper (1995)', 'Star Wars: Episode VI - Return of the Jedi (1983)']","['Dislike', 'Perfect']",2
+585,585,Fear,"['Fly II, The (1989)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+586,586,Fear,"['G.I. Joe: Retaliation (2013)', 'Matrix, The (1999)']","['Like', 'Perfect']",2
+587,587,Anger,"['Italian Job, The (1969)']",['Perfect'],1
+588,588,Disgust,"['Bronson (2009)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+589,589,Sadness,['Kin-Dza-Dza! (1986)'],['Perfect'],1
+590,590,Sadness,"['Billy Jack (1971)', 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+591,591,Fear,['Tucker & Dale vs Evil (2010)'],['Perfect'],1
+592,592,Anger,"['Principal, The (1987)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+593,593,Anger,"['Lovely Bones, The (2009)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+594,594,Anger,"['Kung Fu Panda (2008)', 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)']","['Like', 'Perfect']",2
+595,595,Joy,['Voices of a Distant Star (Hoshi no koe) (2003)'],['Perfect'],1
+596,596,Anger,"['Winners and Sinners (Qi mou miao ji: Wu fu xing) (1983)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Dislike', 'Like', 'Perfect']",3
+597,597,Anger,"['Ghost in the Shell: Stand Alone Complex - The Laughing Man (2005)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+598,598,Anger,"['Eagle Eye (2008)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+599,599,Anger,"['Seven Psychopaths (2012)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+600,600,Anger,"['Safe (2012)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+601,601,Joy,['San Francisco (1936)'],['Perfect'],1
+602,602,Sadness,"['Bank Job, The (2008)', 'Stand by Me (1986)']","['Like', 'Perfect']",2
+603,603,Fear,"['Outpost (2008)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+604,604,Joy,"['Lord of the Rings: The Two Towers, The (2002)']",['Perfect'],1
+605,605,Fear,"['Swarm, The (1978)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+606,606,Sadness,"[""Crimson Rivers 2: Angels of the Apocalypse (Rivières pourpres II - Les anges de l'apocalypse, Les) (2004)"", 'Stand by Me (1986)']","['Dislike', 'Perfect']",2
+607,607,Fear,"['White Noise (2005)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+608,608,Anger,"['Asphalt Jungle, The (1950)', 'Sneakers (1992)', 'Shawshank Redemption, The (1994)']","['Like', 'Like', 'Perfect']",3
+609,609,Fear,"['Generation X (1996)', 'Matrix, The (1999)']","['Dislike', 'Perfect']",2
+610,610,Disgust,['Harry Potter and the Deathly Hallows: Part 1 (2010)'],['Perfect'],1
