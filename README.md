@@ -5,12 +5,8 @@ This repository contains the code for the web app 'Moovie by Mood', along with t
 ## Opening the Web App on your Local Device
 
 To run this project in your development machine, follow these steps:
-1. Download the project zip folder from Github. You can do this by clicking on the green box 'Code'. Alternatively, you could clone the repository to your local machine.
-   ```console
-   git clone https://github.com/DinaJohn/MoviebyMood.git
-   ```
 
-2. If you dont have miniconda installed on your system, please download it from: https://docs.anaconda.com/free/miniconda/
+1. If you dont have miniconda installed on your system, please download it from: https://docs.anaconda.com/free/miniconda/
    Once you've installed miniconda, please create a virtual environment to run django. Follow the below steps on terminal:
     ```console
     $ conda create --name movie_env python=3.10
@@ -18,7 +14,10 @@ To run this project in your development machine, follow these steps:
     ```console
     $ conda activate movie_env
     ```
-
+2. Download the project zip folder from Github. You can do this by clicking on the green box 'Code'. Alternatively, you could clone the repository to your local machine.
+   ```console
+   git clone https://github.com/DinaJohn/MoviebyMood.git
+   ```
 3. Install Python dependencies (main folder):
 
     ```console
