@@ -18,9 +18,6 @@ To run this project in your development machine, follow these steps:
     ```console
     $ conda activate movie_env
     ```
-    ```console
-    $ pip install django
-    ```
 
 3. Install Python dependencies (main folder):
 
