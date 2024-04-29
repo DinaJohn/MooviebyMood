@@ -2,7 +2,7 @@
 
 This repository contains the code for the web app 'Moovie by Mood', along with the code for the feedback predictor, simulator and evaluation results. Please look at the below instruction to run the website on your local browser (preferbally google chrome). I've also mentioned what main folders in the repository comprises off for easy navigation and clarity. Additionally, login username and password for 5 users have beeen metioned below.
 
-## Using the Web App on your Local Device
+## Opening the Web App on your Local Device
 
 To run this project in your development machine, follow these steps:
 1. Download the project zip folder from Github. You can do this by clicking on the green box 'Code'. Alternatively, you could clone the repository to your local machine.
