@@ -42,12 +42,13 @@ To run this project in your development machine, follow these steps:
 
 Please use the below details to login to the web app:
 
-userId	Password
-1	      Hello123
-2		   Hello124
-3	      Hello125
-4	      Hello126
-5	      Hello127
+| Username  | Password |
+| ------------- | ------------- |
+| 1  | Hello123  |
+| 2  | Hello124  |
+| 3  | Hello125  |
+| 4  | Hello126  |
+| 5  | Hello127  |
 
 ## File Directory:
 
