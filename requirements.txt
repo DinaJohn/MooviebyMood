@@ -15,6 +15,6 @@ typing_extensions==4.8.0
 whitenoise==6.5.0
 django-cors-headers
 pandas
-matplotlib==3.3.4
+matplotlib>=3.3.4
 scikit-learn>=0.24.1
 requests
